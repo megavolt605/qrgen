@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommandLineKit",
+        "repositoryURL": "https://github.com/IngmarStein/CommandLineKit",
+        "state": {
+          "branch": "master",
+          "revision": "4b19c4e24bc1a8936763fda2b44163f6b8f95f9b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
