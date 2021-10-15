@@ -42,7 +42,7 @@ struct CLI {
         shortFlag: "m",
         longFlag: "mode",
         required: false,
-        helpMessage: "mode. g - generation, r = reconition, default is generation"
+        helpMessage: "mode. g - generation, r - reconition, default is generation"
     )
     let inputParam = StringOption(
         shortFlag: "i",
